@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/01/19 12:35:32.000.188,=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/31 12:11:23.000.522,=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/16 11:06:36.000.544,=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/13 12:08:22.000.527,=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/13 12:24:51.000.090,=C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/13 12:58:00.000.540,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\usuario\Desktop\VMGR_TFG\IDE\Unit1.dfm</Transaction>
+    <Transaction>2023/03/13 12:58:00.000.540,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\usuario\Desktop\VMGR_TFG\IDE\Unit1.pas</Transaction>
+    <Transaction>2023/03/13 12:58:24.000.284,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\usuario\Desktop\VMGR_TFG\IDE\Unit2.dfm</Transaction>
+    <Transaction>2023/03/13 12:58:24.000.284,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\usuario\Desktop\VMGR_TFG\IDE\Unit2.pas</Transaction>
+    <Transaction>2023/03/13 14:58:14.000.730,C:\Users\usuario\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\usuario\Desktop\VMGR_TFG\IDE\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
