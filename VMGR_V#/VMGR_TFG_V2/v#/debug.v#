@@ -1,0 +1,57 @@
+
+dni=int( input("Ingresa un numero: "))
+calcular=dni % 23
+dni=str(dni)
+
+vswitch(calcular){
+case "0":
+     dni=dni+"t"
+case "1":
+     dni=dni+"r"
+case "2":
+     dni=dni+"w"
+case "3":
+     dni=dni+"a"
+case "4":
+     dni=dni+"g"
+case "5":
+    dni=dni+ "m"
+case "6":
+    dni=dni+ "y"
+case "7":
+     dni=dni+"f"
+case "8":
+    dni=dni+ "p"
+case "9":
+    dni=dni+ "d"
+case "10":
+    dni=dni+ "x"
+case "11":
+   dni= dni+ "b"
+case "12":
+    dni=dni+ "n"
+case "13":
+  dni= dni+  "j"
+case "14":
+   dni= dni+ "z"
+case "15":
+   dni= dni+ "s"
+case "16":
+   dni= dni+ "q"
+case "17":
+   dni= dni+ "v"
+case "18":
+    dni= dni+"h"
+case "19":
+   dni= dni+ "l"
+case "20":
+   dni= dni+ "t"
+case "21":
+    dni= dni+"t"
+case "22":
+  dni= dni+"e"
+
+}
+
+
+dni= input("tu dni es: "+dni)
